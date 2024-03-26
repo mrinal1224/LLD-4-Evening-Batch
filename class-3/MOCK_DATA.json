@@ -298,5 +298,31 @@
     "product_name": "Lettuce - Spring Mix",
     "product_price": "$47.53",
     "isInStock": true
+  },
+  {
+    "id": 51,
+    "product_name": "shoes",
+    "product_price": "$50",
+    "isInStock": "true"
+  },
+  {
+    "id": 52,
+    "product_name": "shirts",
+    "product_price": "$15",
+    "isInStock": "true"
+  },
+  {
+    "id": 53,
+    "product_name": "shirts",
+    "product_price": "$15",
+    "isInStock": "boolean"
+  },
+  { "id": 54 },
+  { "id": 55 },
+  {
+    "id": 56,
+    "product_name": "pencils",
+    "product_price": "$1",
+    "isInStock": true
   }
 ]
