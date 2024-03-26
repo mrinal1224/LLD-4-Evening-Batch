@@ -35,23 +35,12 @@
     "product_price": "$21.00",
     "isInStock": false
   },
-  {
-    "id": 7,
-    "product_name": "Spinach - Frozen",
-    "product_price": "$30.02",
-    "isInStock": true
-  },
+  { "product_name": "pens", "product_price": "$1", "isInStock": true, "id": 7 },
   {
     "id": 8,
     "product_name": "Duck - Whole",
     "product_price": "$28.10",
     "isInStock": true
-  },
-  {
-    "id": 9,
-    "product_name": "Waffle Stix",
-    "product_price": "$25.94",
-    "isInStock": false
   },
   {
     "id": 10,
