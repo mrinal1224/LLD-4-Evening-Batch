@@ -14,3 +14,17 @@
 /favicon.ico Request recieved
 /contact Request recieved
 /contact Request recieved
+/products Request recieved
+/favicon.ico Request recieved
+/products?shoes=nike Request recieved
+/favicon.ico Request recieved
+/products?shoes=nike Request recieved
+/favicon.ico Request recieved
+/products?shoes=nike&id=23 Request recieved
+/favicon.ico Request recieved
+/products?shoes=nike Request recieved
+/favicon.ico Request recieved
+/products?shoes=adidas Request recieved
+/favicon.ico Request recieved
+/products?shoes=newBalance Request recieved
+/favicon.ico Request recieved
